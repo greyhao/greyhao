@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @greyhao.
-- 👀 I want to become a better front-end development.
+- 👏 Thanks for follow me or give a star.
 - 🌱 Stay learning, Stay thinking.
 <!---
 greyhao/greyhao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
